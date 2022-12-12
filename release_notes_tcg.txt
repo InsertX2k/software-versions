@@ -1,5 +1,9 @@
-release notes for temp cleaner gui
-
-current stable version is v5.1-stable, the next version will be v5.1 Update 2-stable
-
-*******This is just a test for the release_notes function, and everything will be organized soon.*******
+What's new in Temp_Cleaner GUI v5.1 Update 2:-
+* Change UI to use customtkinter instead of tkinter
+* Fix widgets alignment problems
+* Fix widget sizes when running on 1024x768 display size
+* Make a separate banner file for low-resolution PCs (=>1024x768) named "bannerlowres.png"
+* Fix RTL (right-to-left) Arabic language text alignment issues.
+* Add Chrome multi-profile cleaning (Might not be implemented)
+* Add an updater program
+* Create a custom hand-made installer program for this release.
