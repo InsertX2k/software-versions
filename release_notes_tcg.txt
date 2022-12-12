@@ -1,0 +1,5 @@
+release notes for temp cleaner gui
+
+current stable version is v5.1-stable, the next version will be v5.1 Update 2-stable
+
+*******This is just a test for the release_notes function, and everything will be organized soon.*******
