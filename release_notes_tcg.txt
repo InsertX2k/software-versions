@@ -1,14 +1,13 @@
-What's new in version 5.6-stable:
+What's new in version 6.0-stable:
 =================================
-	* Our program now uses the 'customtkinter' framework (which is based on the 'tkinter' framework)
-	* Fixed the issue where widgets are oversized on 1024x768 or lower displays.
-	* Created a separate banner file for low resolution displays (named "bannerlowres.png", and is available in the installation directory of the program).(***)
-	* Our program now includes an Updater program, Say good bye to having to priodically visiting the Temp_Cleaner GUI's website to check if there is a new update or not.(**)
-	* You can change whether if our program will have to check for updates automatically when you start it from the Settings page.
-	* Removed the custom UI cursors.(****)
-	* Created a new redesigned About window.(*****)
-
-(**)-Updates may take longer than an hour from announcing time to arrive to all users (including you), This function is also experiemental which means that it might not function properly in some cases, It is strongly recommended that you keep an eye on our website and not depend on this function primarily, Requires a stable Internet connection.
-(***)-For the low resolution banner to be shown, you must be using a monitor/display with resolution of 1024x768 or lower, Your display resolution may be changed later any time from PC Settings>System>Display>Screen Resolution or Control Panel.
-(****)-You will no longer be able to use the custom UI cursors feature from version 5.1-stable, and will also no longer be able to access it's files that used to exist in version 5.1-stable.
-(*****)-The new redesigned About window allows you to access different features such as Launching the Updater program without the need to restart Temp_Cleaner GUI, Accessing Temp_Cleaner GUI's Website by a click of a button, and accessing various information about this release of Temp_Cleaner GUI.
+	* Fixed the error that appears to the user when Temp_Cleaner GUI starts with no active internet connection when auto update feature is enabled
+	* Now the program will start even while it is checking for updates availability
+	* An error message will appear when you attempt to launch the updater program within the About window when there is no active internet connection.
+	* Now the program will actively look for the path it is stored in and load program files from it and change the current working directory to it (Useful in situations when you may want to launch the program as NT AUTHORITY\SYSTEM user)
+	* Major Bug fixes over previous versions of Temp_Cleaner GUI
+	* Now the Google chrome and microsoft edge cleaning options clean all profiles of both browsers, this makes Temp_Cleaner GUI the first cleaning program to implement the multi-profile web browser cleaning feature.
+	* Improved Windows Update cleaning feature.
+	* Added Windows Error Reports (WER) Cleaning
+	* Added Windows Update Delivery Optimization cleaning
+	* Added Windows Logs cleaning
+	* Improved overall program stability and usability.
