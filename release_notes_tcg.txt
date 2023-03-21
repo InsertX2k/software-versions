@@ -1,13 +1,4 @@
-What's new in version 6.0-stable:
+What's new in version 6.1-stable:
 =================================
-	* Fixed the error that appears to the user when Temp_Cleaner GUI starts with no active internet connection when auto update feature is enabled
-	* Now the program will start even while it is checking for updates availability
-	* An error message will appear when you attempt to launch the updater program within the About window when there is no active internet connection.
-	* Now the program will actively look for the path it is stored in and load program files from it and change the current working directory to it (Useful in situations when you may want to launch the program as NT AUTHORITY\SYSTEM user)
-	* Major Bug fixes over previous versions of Temp_Cleaner GUI
-	* Now the Google chrome and microsoft edge cleaning options clean all profiles of both browsers, this makes Temp_Cleaner GUI the first cleaning program to implement the multi-profile web browser cleaning feature.
-	* Improved Windows Update cleaning feature.
-	* Added Windows Error Reports (WER) Cleaning
-	* Added Windows Update Delivery Optimization cleaning
-	* Added Windows Logs cleaning
-	* Improved overall program stability and usability.
+	* Fixed the issue with HiDPi scaling displays where main functionality buttons(*) get out of their position
+(*)-Main Functionality buttons are the About, Start Cleaning, and Settings buttons
