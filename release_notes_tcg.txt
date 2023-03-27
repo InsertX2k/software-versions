@@ -1,3 +1,9 @@
+Mr.X wants to thank all of the following kind and awesome people for supporting the development of Temp_Cleaner GUI:
+	* Randy & Deanna (OlderGeeks.com)
+	* Alexandra Sava (Softpedia Listing)
+	* Majorgeeks.com Team
+	* Softaro Team (Japanese download mirror)
+
 What's new in version 6.1-stable:
 =================================
 	* Fixed the issue with HiDPi scaling displays where main functionality buttons(*) get out of their position
