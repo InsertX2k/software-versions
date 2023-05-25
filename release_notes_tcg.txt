@@ -1,13 +1,3 @@
-We recommend that you keep your currently installed version of Temp_Cleaner GUI up-to-date, as with the release of newer versions, support for older versions is dropped, also, new versions of Temp_Cleaner GUI contain overall stability improvements and major (or even minor) bug fixes, and new features that weren't available in previous versions of Temp_Cleaner GUI.
-=================================
-
-Thanks to the following generous people for choosing to support the development of Temp_Cleaner GUI!
-=================================
-Randy & Deanna (OlderGeeks.com) - Bought 5x Coffees
-With message:
-Thanks for the great software.
-
-
 What's new in version 6.4-stable:
 =================================
 	[*] Now the Recycle bin cleaner erases the recycle bin of all drives associated to this PC.
