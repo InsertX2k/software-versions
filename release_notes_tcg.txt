@@ -1,4 +1,4 @@
-We recommend that you keep your currently installed version of Temp_Cleaner GUI up-to-date, as with the relase of newer versions, support for older versions are dropped, also, new versions of Temp_Cleaner GUI contain overall stability improvements and major (or even minor) bug fixes, and new features that weren't available in previous versions of Temp_Cleaner GUI.
+We recommend that you keep your currently installed version of Temp_Cleaner GUI up-to-date, as with the release of newer versions, support for older versions is dropped, also, new versions of Temp_Cleaner GUI contain overall stability improvements and major (or even minor) bug fixes, and new features that weren't available in previous versions of Temp_Cleaner GUI.
 =================================
 
 Thanks to the following generous people for choosing to support the development of Temp_Cleaner GUI!
@@ -8,7 +8,23 @@ With message:
 Thanks for the great software.
 
 
-What's new in version 6.1-stable:
+What's new in version 6.4-stable:
 =================================
-	* Fixed the issue with HiDPi scaling displays where main functionality buttons(*) get out of their position
-(*)-Main Functionality buttons are the About, Start Cleaning, and Settings buttons
+	[*] Now the Recycle bin cleaner erases the recycle bin of all drives associated to this PC.
+	[*] Fixed the issue with Windows Update restart function.
+	[*] Fixed issues with Android cache cleaner not working.
+	[+] Added Offline Web pages cleaning.
+	[+] Added donators window (can be accessed by pressing the "Donators" button from the "About" window)
+	[*] Improvements for Arabic language translations.
+	[*] Overall stability improvements.
+	[*] Fixed major bugs with the Updater program.
+	[+] Added Windows Component Store (WinSxS) cleaner. (This will help you free up a lot of disk space)
+	[*] Fixed issues in Performance Logs cleaner.
+	[+] Added Web browser history cleaning feature (it is a part of the Browser's cache cleaner)
+	[+] Added Windows Service Pack cleaner. (This will help you free up a lot of disk space)
+	[+] Added Windows.old folder cleaner. (This will help you free up a lot of disk space)
+	[*] Improved the way Temp_Cleaner GUI handles system files permissions.
+	[-] Removed Iconcache.db cleaner
+	[-] Removed unnecessary warnings
+	*-Please note that not all new features and bug fixes are listed here, and you may see other improvements/or new features that aren't listed here.
+	
