@@ -1,20 +1,19 @@
-What's new in version 6.4-stable:
+**If you are coming from an older version of Temp_Cleaner GUI, it is strongly recommended that you update your copy of Temp_Cleaner GUI to this release, as it contains important stability improvements and bug fixes**
+
+What's new in version 6.6-stable:
 =================================
-	[*] Now the Recycle bin cleaner erases the recycle bin of all drives associated to this PC.
-	[*] Fixed the issue with Windows Update restart function.
-	[*] Fixed issues with Android cache cleaner not working.
-	[+] Added Offline Web pages cleaning.
-	[+] Added donators window (can be accessed by pressing the "Donators" button from the "About" window)
-	[*] Improvements for Arabic language translations.
-	[*] Overall stability improvements.
-	[*] Fixed major bugs with the Updater program.
-	[+] Added Windows Component Store (WinSxS) cleaner. (This will help you free up a lot of disk space)
-	[*] Fixed issues in Performance Logs cleaner.
-	[+] Added Web browser history cleaning feature (it is a part of the Browser's cache cleaner)
-	[+] Added Windows Service Pack cleaner. (This will help you free up a lot of disk space)
-	[+] Added Windows.old folder cleaner. (This will help you free up a lot of disk space)
-	[*] Improved the way Temp_Cleaner GUI handles system files permissions.
-	[-] Removed Iconcache.db cleaner
-	[-] Removed unnecessary warnings
-	*-Please note that not all new features and bug fixes are listed here, and you may see other improvements/or new features that aren't listed here.
-	
+	[*] Improved overall program stability (especially with older versions of Windows).
+	[*] Major bug fixes.
+	[*] Fixed the issues where sometimes Temp_Cleaner GUI overcleans.
+	[*] Fixed the issue where the recycle bin cleaner doesn't clean the system drive recycle bin and doesn't find other drives.
+	[*] Improved the behavior of Recycle bin cleaner
+	[*] Improved Mozilla Firefox Cleaner.
+	[*] Now the history cleaners are in separate cleaning options
+	[+] Added Playnite Game Launcher Web Browser Cleaner
+	[+] Added Opera Web Browser Cookies Cleaner*
+	[+] Added Opera Web Browser Cache Cleaner*
+	[+] Added Opera Web Browser History Cleaner*
+ 	[+] Added Help Document (HTML Files)**
+*-I couldn't install Opera Web Browser (even through winget) so I had to build these cleaners using the community opinion (instead of searching and testing manually), so expect these cleaners to get updated in the upcoming updates to Temp_Cleaner GUI.
+*-Cleans Stable version of Opera Browser Only
+**-You can view that help document by using the shortcut on the start menu folder.
