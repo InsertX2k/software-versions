@@ -1,19 +1,18 @@
 **If you are coming from an older version of Temp_Cleaner GUI, it is strongly recommended that you update your copy of Temp_Cleaner GUI to this release, as it contains important stability improvements and bug fixes**
 
-What's new in version 6.6-stable:
-=================================
-	[*] Improved overall program stability (especially with older versions of Windows).
-	[*] Major bug fixes.
-	[*] Fixed the issues where sometimes Temp_Cleaner GUI overcleans.
-	[*] Fixed the issue where the recycle bin cleaner doesn't clean the system drive recycle bin and doesn't find other drives.
-	[*] Improved the behavior of Recycle bin cleaner
-	[*] Improved Mozilla Firefox Cleaner.
-	[*] Now the history cleaners are in separate cleaning options
-	[+] Added Playnite Game Launcher Web Browser Cleaner
-	[+] Added Opera Web Browser Cookies Cleaner*
-	[+] Added Opera Web Browser Cache Cleaner*
-	[+] Added Opera Web Browser History Cleaner*
- 	[+] Added Help Document (HTML Files)**
-*-I couldn't install Opera Web Browser (even through winget) so I had to build these cleaners using the community opinion (instead of searching and testing manually), so expect these cleaners to get updated in the upcoming updates to Temp_Cleaner GUI.
-*-Cleans Stable version of Opera Browser Only
-**-You can view that help document by using the shortcut on the start menu folder.
+What's new in version 6.8-stable:
+==============================
+It includes all the new features and bug fixes in v6.7-dev (Update 1) which are:
+	[*] Fixed errors with the Updater program (especially when using a slow internet connection)
+	[*] Improved overall program stability
+	[*] Improved the stability and behavior of Windows.old cleaner
+	[*] Removed unnecessary warnings
+And all the new features and bug fixes included in v6.7-dev which are:
+	[*] Fixed the bug with the 'Donators' window that causes it to corrupt the Main Home UI Styling when running on Light Theme appearance mode.
+	[*] Fixed the bug that causes an empty Tk Window to appear when the 'Updater' program doesn't show the release notes after the user closes the updater window.
+	[*] Improved the overall program stability and usability
+	[*] Improved the overall 'Updater' program stability and usability
+Add to them these new features and bug fixes:
+	[+] Added an option to show startup tips (aka. Tip of the Day) at program startup (can also be launched from the 'About' window)
+	[*] Major bug fixes
+	[*] Improved exception (error) handling
