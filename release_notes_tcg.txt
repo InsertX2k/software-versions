@@ -1,23 +1,12 @@
-Thanks to the following generous donators for choosing to support the development of Temp_Cleaner GUI!:
-===============================
-Someone bought 5 coffees.
-Indispensable!
-===============================
-
-
 **If you are coming from an older version of Temp_Cleaner GUI, it is strongly recommended that you update your copy of Temp_Cleaner GUI to this release, as it contains important stability improvements and bug fixes**
 
 WARNING: YOUR ANTIVIRUS SOFTWARE MIGHT FALSELY DETECT THIS PROGRAM (TEMP_CLEANER GUI) AS MALWARE/PUP, PLEASE GO TO THE DOWNLOADS PAGE OF TEMP_CLEANER GUI AND SEE HOW YOU CAN PREVENT THAT FROM HAPPENING AS IT WILL AFFECT THE FUNCTIONALITY OF THIS PROGRAM
 
-What's new in version 6.9-stable:
+What's new in version 7.0-testing:
 ==============================
-	[*] Fixed the issue with the Updater module that causes it to prevent Temp_Cleaner GUI from starting until it finishes checking for updates.
-	[*] Improved the overall behavior of the Updater window & module.
-	[+] Added a 25 seconds timeout for the check for updates function (to prevent the issue of the program staying in the background for too long)
-	[*] Improved overall program exception handling
-	[+] Improved the way Temp_Cleaner GUI displays and handles errors.
-	[*] Major bug fixes and improvements to the behavior of some cleaners.
-	[*] Minor improvements in overall code readability.
-	[*] Now the Legacy Microsoft Edge Windows Store Version cleaner is automated! (I know this should have been automated since the first release of Temp_Cleaner GUI, I am sorry I forgot about it ;-;)
+	[*] Minor bug fixes
+	[+] Added the ability to stop the cleaning process (thread) by clicking again on the button used to initiate the cleaning process.
+	[+] Added Android cleaners (using ADB), Can be used to clean up temporary data on your Android smartphone wirelessly or using a USB Cable.
+	[+] Added post-cleaning options for controlling power state of the device (Supports Shutdown, Reboot, Hibernate)
+	[+] Added BeamNG.Drive temp folder cleaning
 	*-Please note that not all new features and bug fixes are listed here, and you may see other improvements/or new features that aren't listed here.
-
