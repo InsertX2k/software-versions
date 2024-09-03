@@ -1,3 +1,8 @@
+Thanks to the following generous donators for choosing to support the development of Temp_Cleaner GUI!
+=============================
+Neil Raymond bought a coffee.
+=============================
+
 **If you are coming from an older version of Temp_Cleaner GUI, it is strongly recommended that you update your copy of Temp_Cleaner GUI to this release, as it contains important stability improvements and bug fixes**
 
 WARNING: YOUR ANTIVIRUS SOFTWARE MIGHT FALSELY DETECT THIS PROGRAM (TEMP_CLEANER GUI) AS MALWARE/PUP, PLEASE GO TO THE DOWNLOADS PAGE OF TEMP_CLEANER GUI AND SEE HOW YOU CAN PREVENT THAT FROM HAPPENING AS IT WILL AFFECT THE FUNCTIONALITY OF THIS PROGRAM
