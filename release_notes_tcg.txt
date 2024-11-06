@@ -2,9 +2,14 @@
 
 WARNING: YOUR ANTIVIRUS SOFTWARE MIGHT FALSELY DETECT THIS PROGRAM (TEMP_CLEANER GUI) AS MALWARE/PUP, PLEASE GO TO THE DOWNLOADS PAGE OF TEMP_CLEANER GUI AND SEE HOW YOU CAN PREVENT THAT FROM HAPPENING AS IT WILL AFFECT THE FUNCTIONALITY OF THIS PROGRAM
 
-What's new in version 7.0-stable:
+What's new in version 7.1-stable:
 ==============================
-	[*] Minor bug fixes
-	[+] Added a cleaning process indicator progressbar.
-	[*] Improved the Android cleaner, now if you have more than one android device connected you will have to choose which one to clean manually. 
+	[-] Removed the option "Free Up System RAM using RAMMap by Sysinternals"
+	[*] Maximum cleaning preset now doesn't check Visual Studio Code cleaning options by default.
+	[+] Added the option to rebuild icon cache (for Windows Explorer)
+	[*] Improved the behavior of the Windows Explorer Thumbnails Cleaner, it now restarts Explorer to help Windows rebuild thumbnails again.
+ 	[*] Fixed the bug of cleaning progress bar showing active even when cleaning process has stopped.
+	[*] Improved Exception handling in BeamNG.Drive Temporary files cleaner
+	[*] Improved Exception/Error handling in Cleaning thread & Main program cleaning function.
+	[*] Major bug fixes 
 	*-Please note that not all new features and bug fixes are listed here, and you may see other improvements/or new features that aren't listed here.
