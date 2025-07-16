@@ -1,3 +1,15 @@
-Pre-built binaries (with Installers) for this release (v8.0-stable) aren't available for download yet, I am still working on them.
+**v8.0-stable is here after a lot of hard work over a long period of time.**
 
-What's new in v8.0-stable? - See the full change log here: https://github.com/InsertX2k/temp_cleaner_gui/releases/tag/v8.0-stable
+*Please use the debug build from the hashes section in the downloads page if you want to file a bug report on any support platform (Github, Sourceforge), since it has console, and imports debugging enabled, which makes the debugging process a lot easier.*
+
+
+# What's new in v8.0-stable?
+It is Always better to view the full changelog from here: https://github.com/InsertX2k/temp_cleaner_gui/releases/tag/v8.0-stable
+
+but here are the highlights of this version:
+* Added a new top banner (positioned on top of the main banner, that displays the Temp_Cleaner GUI logo along with a short description) that displays useful information (such as if user needs to clean up temporary files or needs to update their copy of Temp_Cleaner GUI)
+* Added hover shrink effect to the 3 main functionality buttons (the "About", "Settings" and "Start Cleaning" ones).
+* Added the Memory dump file cleaner (that file is created whenever a Windows BSOD (Blue Screen of Death) occurs (ntoskrnl shows the collection status as a percentage on the BSOD screen: 100% Complete as a White text on the bottom of the QR Code).
+* Added a new OOBE (Out Of Box Experience) window that runs upon the first run of the program.
+* A new additional cleaners feature!
+(These just represent a small portion of the changes in this new update, Please refer to the full changelog, linked above, to learn more about all the changes in this release)
