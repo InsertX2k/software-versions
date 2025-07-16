@@ -6,7 +6,7 @@
 # What's new in v8.0-stable?
 It is Always better to view the full changelog from here: https://github.com/InsertX2k/temp_cleaner_gui/releases/tag/v8.0-stable
 
-but here are the highlights of this version:
+but here are some highlights for this version:
 * Added a new top banner (positioned on top of the main banner, that displays the Temp_Cleaner GUI logo along with a short description) that displays useful information (such as if user needs to clean up temporary files or needs to update their copy of Temp_Cleaner GUI)
 * Added hover shrink effect to the 3 main functionality buttons (the "About", "Settings" and "Start Cleaning" ones).
 * Added the Memory dump file cleaner (that file is created whenever a Windows BSOD (Blue Screen of Death) occurs (ntoskrnl shows the collection status as a percentage on the BSOD screen: 100% Complete as a White text on the bottom of the QR Code).
